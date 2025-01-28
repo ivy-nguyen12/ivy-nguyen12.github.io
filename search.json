@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "My Projects",
+    "section": "",
+    "text": "Project A\nProject B"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "My name is\n\n\n\n\n# Test to code python\n1+2\n\n3"
+  },
+  {
+    "objectID": "about.html#who-am-i",
+    "href": "about.html#who-am-i",
+    "title": "About",
+    "section": "",
+    "text": "My name is"
+  },
+  {
+    "objectID": "about.html#my-python-work",
+    "href": "about.html#my-python-work",
+    "title": "About",
+    "section": "",
+    "text": "# Test to code python\n1+2\n\n3"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Vy (Ivy) Nguyen",
+    "section": "",
+    "text": "Enter your biography blurb here."
+  },
+  {
+    "objectID": "projects/project-a/index.html",
+    "href": "projects/project-a/index.html",
+    "title": "Ivy’s Projects",
+    "section": "",
+    "text": "My R Work\n\nx &lt;- 1 + 2\nx\n\n[1] 3"
+  }
+]
